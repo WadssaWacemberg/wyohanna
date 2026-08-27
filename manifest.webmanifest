@@ -1,0 +1,9 @@
+{
+  "name": "Canal HannaH",
+  "short_name": "HannaH",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#fff0f8",
+  "theme_color": "#ff73bd",
+  "icons": []
+}

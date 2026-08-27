@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://wadssawacemberg.github.io/sitemap.xml
